@@ -2,8 +2,8 @@
 
 [![NPM version](http://img.shields.io/npm/v/@jedmao/get.svg?style=flat)](https://www.npmjs.org/package/@jedmao/get)
 [![npm license](http://img.shields.io/npm/l/@jedmao/get.svg?style=flat-square)](https://www.npmjs.org/package/@jedmao/get)
-[![Travis Build Status](https://img.shields.io/travis/@jedmao/get.svg)](https://travis-ci.org/@jedmao/get)
-[![codecov](https://codecov.io/gh/@jedmao/get/branch/master/graph/badge.svg)](https://codecov.io/gh/@jedmao/get)
+[![Travis Build Status](https://img.shields.io/travis/jedmao/get.svg)](https://travis-ci.org/jedmao/get)
+[![codecov](https://codecov.io/gh/jedmao/get/branch/master/graph/badge.svg)](https://codecov.io/gh/jedmao/get)
 [![BundlePhobia Minified](https://badgen.net/bundlephobia/min/@jedmao/get?label=min)](https://bundlephobia.com/result?p=@jedmao/get)
 [![BundlePhobia Minified + gzip](https://badgen.net/bundlephobia/minzip/@jedmao/get?label=min%2Bgzip)](https://bundlephobia.com/result?p=@jedmao/get)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
