@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+jedmao-get-*
+.*
+*.ts
+!*.d.ts
+ts*.json
