@@ -1,4 +1,4 @@
-# get
+# @jedmao/get
 
 [![NPM version](http://img.shields.io/npm/v/@jedmao/get.svg?style=flat)](https://www.npmjs.org/package/@jedmao/get)
 [![npm license](http://img.shields.io/npm/l/@jedmao/get.svg?style=flat-square)](https://www.npmjs.org/package/@jedmao/get)
