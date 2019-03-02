@@ -17,7 +17,7 @@ Types will be preserved up to 10 levels deep. After that, things start coming ba
 
 This library is tiny [![BundlePhobia Minified + gzip](https://badgen.net/bundlephobia/minzip/@jedmao/get?label=min%2Bgzip)](https://bundlephobia.com/result?p=@jedmao/get), despite how big it might look if you see the TypeScript source code. Most of what you see is type information, which disappears when compiled into JavaScript, but provides rich in-editor support (see below).
 
-[![foo](./screenshot.png)]
+[![screenshot](./screenshot.png)]
 
 ## Installation
 
@@ -31,10 +31,10 @@ npm i @jedmao/get
 import get from '@jedmao/get'
 
 const data = {
-	a: {
-		b: [{ c: 'd' }],
-		e: undefined,
-	},
+  a: {
+    b: [{ c: 'd' }],
+    e: undefined,
+  },
 }
 
 get(data, ['a', 'b', 0, 'c']) // "d"
